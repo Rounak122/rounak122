@@ -1,4 +1,4 @@
-### Hi There<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="25px"> , I'm Rounak
+### <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="25px"> Hey There, I'm Rounak
 
 <p align="center">
   <em>
