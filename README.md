@@ -10,13 +10,13 @@
 
 
 ### 👨🏻‍💻 &nbsp;About Me
-💼&nbsp;I'm currently looking for fulltime SDE opportunities.\
+💼&nbsp;I'm currently looking for full-time SDE opportunities.\
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🌱 &nbsp;I'm practicing Data Structures and Algorithms along side my projects.\
+🌱 &nbsp;I'm practicing Data Structures and Algorithms alongside my projects.\
 ✍️ &nbsp;In my free time, I pursue Graphic Design and also practice public speaking regularly at [Toastmasters International](https://www.toastmasters.org).\
 👨‍💼 &nbsp;I'm leading [IIC TMSL](https://iictmsl.in), the entrepreneurship cell of our college as the student Co-Head \
 📄 &nbsp;Please have a look at my [Résumé](https://docs.google.com/document/d/1XZhXcAxZOH7kwLS-k9QHTzHz6FgY5Pkc_NmuGaDYQdE/edit?usp=sharing) for more details about me. I'm open to feedback and suggestions\
-⚡&nbsp;Fun fact: Sharing memes is good for mental health :)
+⚡&nbsp;Fun fact: Sharing memes are good for mental health :)
 
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/Rounak122/Rounak122/master/assets/Night-Coding.gif" align="right"/>
@@ -62,6 +62,7 @@
 <p align="center">
 <!-- <a href="https://rounak.tech"><img src="https://img.shields.io/badge/-adityavsingh.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a> -->
 <a href="https://www.linkedin.com/in/rounak-chourasia/"><img src="https://img.shields.io/badge/-Rounak%20Chourasia-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.codechef.com/users/rounak122"><img src="https://img.shields.io/badge/-@rounak122-A52A2A?style=flat&logo=codechef&logoColor=white"/></a>
 <a href="mailto:rounak122@gmail.com"><img src="https://img.shields.io/badge/-rounak122@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.facebook.com/Rounak122"><img src="https://img.shields.io/badge/-@rounak122-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 <a href="https://www.pinterest.ca/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-BD081C?style=flat&logo=Pinterest&logoColor=white"/></a>
