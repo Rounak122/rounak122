@@ -19,6 +19,9 @@
 ⚡&nbsp;Fun fact: Sharing memes is good for mental health :)
 
 
+<img alt="Night Coding" src="https://raw.githubusercontent.com/Rounak122/Rounak122/master/assets/Night-Coding.gif" align="right"/>
+
+
 ### 🛠 &nbsp;Tech Stack
 
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
@@ -40,19 +43,12 @@
 ![Nginx](https://img.shields.io/badge/-Nginx-05122A?style=flat&logo=nginx)&nbsp;
 ![Circle Ci](https://img.shields.io/badge/-circle--ci-05122A?style=flat&logo=circleci)&nbsp;
 
-
 ![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman)&nbsp;
-![Postman](https://img.shields.io/badge/-Android_Studio-05122A?style=flat&logo=android-studio)&nbsp;
+![Android Studio](https://img.shields.io/badge/-Android_Studio-05122A?style=flat&logo=android-studio)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)\
 ![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
-
-
-
-
-
-<img alt="Night Coding" src="https://raw.githubusercontent.com/Rounak122/rounak122/blob/main/assets/Night-Coding.gif" align="right"/>
 
 
 ### ⚙️ &nbsp;GitHub Analytics
