@@ -1,7 +1,9 @@
-### Hi there 👋
+### Hi, I'm Rounak 👋
 
 <!--
 **Rounak122/rounak122** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+I am a software developer interested in Android Development and 
 
 Here are some ideas to get you started:
 
@@ -14,3 +16,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p align='center'>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rounak122&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Rounak's Github Stats">
+</p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rounak122&layout=compact&hide=javascript,css)](https://github.com/anuraghazra/github-readme-stats)
