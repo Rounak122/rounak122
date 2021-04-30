@@ -65,6 +65,5 @@
 <a href="https://www.codechef.com/users/rounak122"><img src="https://img.shields.io/badge/-@rounak122-A52A2A?style=flat&logo=codechef&logoColor=white"/></a>
 <a href="mailto:rounak122@gmail.com"><img src="https://img.shields.io/badge/-rounak122@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.facebook.com/Rounak122"><img src="https://img.shields.io/badge/-@rounak122-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
-<a href="https://www.pinterest.ca/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-BD081C?style=flat&logo=Pinterest&logoColor=white"/></a>
 <a href="https://twitter.com/Rounak_me"><img src="https://img.shields.io/badge/-@rounak__me-1769FF?style=flat&logo=Twitter&logoColor=white"/></a>
 </p>
