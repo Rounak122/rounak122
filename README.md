@@ -1,10 +1,10 @@
-### <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="25px"> Hey There, I'm Rounak
+### <img src="https://raw.githubusercontent.com/Rounak122/Rounak122/master/assets/Hi.gif" width="25px"> Hey There, I'm Rounak
 
 <p align="center">
   <em>
     Hello, I am Rounak Chourasia a <b>final year</b> undergraduate from <a href="https://www.ticollege.ac.in/"> <b>Techno Main Saltlake</b>, Kolkata, India</a>.
   <br>
-    <b>a passionate self learner</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and <b>Full Stack Android Developer</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">
+    <b>a passionate self learner</b> <img src="https://raw.githubusercontent.com/Rounak122/Rounak122/master/assets/pc1.gif" width="30px"> and <b>Full Stack Android Developer</b>&nbsp;<img src="https://raw.githubusercontent.com/Rounak122/Rounak122/master/assets/pc2.gif" width="36px">
   </em> 
 </p>
 
