@@ -2,7 +2,7 @@
 
 <p align="center">
   <em>
-    Hello, I am Rounak Chourasia a <b>final year</b> undergraduate from <a href="https://www.ticollege.ac.in/"> <b>Techno Main Saltlake</b>, Kolkata, India</a>.
+    Hello, I am Rounak Chourasia a <b>B.Tech</b> Grad from <a href="https://www.ticollege.ac.in/"> <b>Techno Main Saltlake</b>, Kolkata, India</a>. Currently working at <b>TCS</b> as Backend Developer.
   <br>
     <b>a passionate self learner</b> <img src="https://raw.githubusercontent.com/Rounak122/Rounak122/master/assets/pc1.gif" width="30px"> and <b>Full Stack Android Developer</b>&nbsp;<img src="https://raw.githubusercontent.com/Rounak122/Rounak122/master/assets/pc2.gif" width="36px">
   </em> 
