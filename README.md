@@ -61,7 +61,7 @@
 
 <p align="center">
 <!-- <a href="https://rounak.tech"><img src="https://img.shields.io/badge/-adityavsingh.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a> -->
-<a href="https://www.linkedin.com/in/rounak-chourasia/"><img src="https://img.shields.io/badge/-Rounak%20Chourasia-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/rounaakk/"><img src="https://img.shields.io/badge/-rounaakk-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:rounak122@gmail.com"><img src="https://img.shields.io/badge/-rounak122@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.facebook.com/rounaakk"><img src="https://img.shields.io/badge/-@rounaakk-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 <a href="https://twitter.com/rounaakk_"><img src="https://img.shields.io/badge/-@rounaakk__-1769FF?style=flat&logo=Twitter&logoColor=white"/></a>
