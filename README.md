@@ -1,17 +1,17 @@
-### <img src="https://raw.githubusercontent.com/rounaakk/rounaakk/main/assets/Hi.gif"> Hey There, I'm Rounak
+### <img src="https://raw.githubusercontent.com/rounaakk/rounaakk/main/assets/Hi.gif" width="25"/> Hey There, I'm Rounak
 
 <p align="center">
   <em>
     Hello, I am Rounak Chourasia a <b>B.Tech</b> Grad from <a href="https://www.ticollege.ac.in/"> <b>Techno Main Saltlake</b>, Kolkata, India</a>. Currently working at <b>TCS</b> as Backend Developer.
   <br>
-    <b>a passionate self learner</b> <img src="https://raw.githubusercontent.com/rounaakk/rounaakk/master/assets/pc1.gif" width="30px"> and <b>Full Stack Android Developer</b>&nbsp;<img src="https://raw.githubusercontent.com/Rounak122/Rounak122/master/assets/pc2.gif" width="36px">
+    <b>I am a passionate self learner</b> <img src="https://raw.githubusercontent.com/rounaakk/rounaakk/master/assets/pc1.gif" width="30"/> and <b>a Backend/Android Developer</b>&nbsp;<img src="https://raw.githubusercontent.com/Rounak122/Rounak122/master/assets/pc2.gif" width="36"/>
   </em> 
 </p>
 
 
 ### 👨🏻‍💻 &nbsp;About Me
-💼&nbsp;I'm currently looking for full-time SDE opportunities.\
-💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
+💼&nbsp;Upcoming SDE 1 @ Amazon.\
+💡 &nbsp;I like to explore new technologies and develop software solutions.\
 🌱 &nbsp;I'm practicing Data Structures and Algorithms alongside my projects.\
 ✍️ &nbsp;In my free time, I pursue Graphic Design and also practice public speaking regularly at [Toastmasters International](https://www.toastmasters.org).\
 👨‍💼 &nbsp;I'm leading [IIC TMSL](https://iictmsl.in), the entrepreneurship cell of our college as the student Co-Head \
