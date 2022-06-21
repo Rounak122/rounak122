@@ -1,4 +1,4 @@
-### <img src="https://raw.githubusercontent.com/rounaakk/rounaakk/main/assets/Hi.gif" width="25px"> Hey There, I'm Rounak
+### <img src="https://raw.githubusercontent.com/rounaakk/rounaakk/main/assets/Hi.gif"> Hey There, I'm Rounak
 
 <p align="center">
   <em>
