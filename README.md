@@ -1,10 +1,10 @@
-### <img src="https://raw.githubusercontent.com/Rounak122/Rounak122/master/assets/Hi.gif" width="25px"> Hey There, I'm Rounak
+### <img src="https://raw.githubusercontent.com/rounaakk/rounaakk/master/assets/Hi.gif" width="25px"> Hey There, I'm Rounak
 
 <p align="center">
   <em>
     Hello, I am Rounak Chourasia a <b>B.Tech</b> Grad from <a href="https://www.ticollege.ac.in/"> <b>Techno Main Saltlake</b>, Kolkata, India</a>. Currently working at <b>TCS</b> as Backend Developer.
   <br>
-    <b>a passionate self learner</b> <img src="https://raw.githubusercontent.com/Rounak122/Rounak122/master/assets/pc1.gif" width="30px"> and <b>Full Stack Android Developer</b>&nbsp;<img src="https://raw.githubusercontent.com/Rounak122/Rounak122/master/assets/pc2.gif" width="36px">
+    <b>a passionate self learner</b> <img src="https://raw.githubusercontent.com/rounaakk/rounaakk/master/assets/pc1.gif" width="30px"> and <b>Full Stack Android Developer</b>&nbsp;<img src="https://raw.githubusercontent.com/Rounak122/Rounak122/master/assets/pc2.gif" width="36px">
   </em> 
 </p>
 
@@ -19,7 +19,7 @@
 ⚡&nbsp;Fun fact: Sharing memes are good for mental health :)
 
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/Rounak122/Rounak122/master/assets/Night-Coding.gif" align="right"/>
+<img alt="Night Coding" src="https://raw.githubusercontent.com/rounaakk/rounaakk/master/assets/Night-Coding.gif" align="right"/>
 
 
 ### 🛠 &nbsp;Tech Stack
@@ -52,8 +52,8 @@
 
 <p align="center">
 <a href="https://github.com/Rounak122">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Rounak122&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Rounak122&layout=compact&langs_count=8&theme=algolia&hide=javascript,css"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rounaakk&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rounaakk&layout=compact&langs_count=8&theme=algolia&hide=javascript,css"/>
 </a>
 </p>
 
